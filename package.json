@@ -1,0 +1,1 @@
+{"name":"jev-crowdpilot","version":"0.1.0","description":"Twitch overlay comparing viewer votes with finite Jev decisions","type":"module","scripts":{"test":"node --test","demo":"node src/server.js","pack":"node scripts/pack.js"},"engines":{"node":">=22"},"license":"MIT","repository":{"type":"git","url":"https://github.com/gbesse/jev-crowdpilot.git"}}

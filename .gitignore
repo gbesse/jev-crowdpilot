@@ -1,0 +1,6 @@
+.env
+dist/
+local-data/
+*.zip
+*.log
+.DS_Store
